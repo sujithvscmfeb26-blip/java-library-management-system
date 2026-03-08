@@ -1,4 +1,4 @@
-# Java Library Management System
+# Java Library Management System -  Book Inventory
 
 A **console-based Library Management System** built using **Java** that demonstrates Object-Oriented Programming principles and Java core concepts.
 
